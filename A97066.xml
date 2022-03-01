@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The peace-maker. Being a letter sent from J.W. in London to N.C. his friend and countrey-man in Holland, to be communicated unto others for publique good wherein is set forth the state of the last treatie: and what advantage it will be to the Netherlanders, to accept the offer which the Councell of England then made to their messengers. Being according to the Dutch copie.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97066</idno>
+            <idno type="STC">Wing W61</idno>
+            <idno type="STC">Thomason E724_7</idno>
+            <idno type="STC">ESTC R204158</idno>
+            <idno type="EEBO-CITATION">99863844</idno>
+            <idno type="PROQUEST">99863844</idno>
+            <idno type="VID">116059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116059)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E724[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The peace-maker. Being a letter sent from J.W. in London to N.C. his friend and countrey-man in Holland, to be communicated unto others for publique good wherein is set forth the state of the last treatie: and what advantage it will be to the Netherlanders, to accept the offer which the Councell of England then made to their messengers. Being according to the Dutch copie.</title>
+                  <author>J. W.</author>
+                  <author>N. C.</author>
+               </titleStmt>
+               <extent>[2], 1, 4-18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M: Simmons in Aldersgate-street, next door to the gilded Lion,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dutch original not traced.</note>
+                  <note>Annotation on Thomason copy: "Decemb 16:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116059:1" rendition="simple:additions"/>
+            <p>THE Peace-Maker.</p>
+            <p>BEING A Letter ſent from <hi>J. W.</hi> in <hi>London</hi> to <hi>N. C.</hi> his Friend and Countrey-man in <hi>Holland,</hi> to be communicated unto o<g ref="char:EOLhyphen"/>thers for publique good</p>
+            <p>Wherein is ſet forth the ſtate of the laſt Treatie: And what advantage it will be to the Netherlanders, to accept the offer which the Councell of <hi>England</hi> then made to their Meſſengers.</p>
+            <q>
+               <bibl>
+                  <hi>PSALM. 120.7.</hi>
+               </bibl>
+               <p>I am for peace, but when I ſpeake, they are for warre.</p>
+            </q>
+            <p>
+               <hi>Being according to the Dutch Copie.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M: Simmons</hi> in Alderſgate-ſtreet, next door to the gilded Lion, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116059:2"/>
+            <pb n="1" facs="tcp:116059:2"/>
+            <head>THE Peace-Maker.</head>
+            <head type="sub">Being a Letter ſent from J. W. in <hi>London,</hi> to <hi>N. C.</hi> his Friend &amp; Country<g ref="char:EOLhyphen"/>man in <hi>Holland,</hi> to be communicated unto others for publicke good.</head>
+            <opener>
+               <salute>Myne-Heer.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſingular and ſincere affecti<g ref="char:EOLhyphen"/>on which I beare to my Native Countrey, that our liberty, lives, lawes, and exerciſe of the Proteſtant Religion, (redeem<g ref="char:EOLhyphen"/>ed with a ſea of blood and milli<g ref="char:EOLhyphen"/>ons of Treaſure from the ſword and tyranny of the Spanyard) may not at once be loſt and ſwallowed up either through a crafty de<g ref="char:EOLhyphen"/>ſign of ſome ſeeking themſelves, and their own cor<g ref="char:EOLhyphen"/>rupt Intereſt, or through the ignorance and miſun<g ref="char:EOLhyphen"/>derſtanding of other men. I have of late made it purpoſely my worke ſeriouſly to ſearch into the
+<pb n="4" facs="tcp:116059:3"/>tranſactions and paſſages of things between the two S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tates, and ſo to inform my ſelf of the moſt expe<g ref="char:EOLhyphen"/>dient and ready way and courſe to prevent all fur<g ref="char:EOLhyphen"/>ther VVarts and blood: and how inſtead of rayſing more Forces one againſt the other, that a happy and bleſſed peace ſpeedily may be made.</p>
+            <p>I know there are too many amongſt you, who by miſ-reporting things to the people, doe endeavour to highten the difference: But for my part, I ſhall deliver nothing but what is truth and certain; as well knowing there is ſeaſonable and good counſell here tendred to you all, if the Lord move your hearts effectually to embrace it.</p>
+            <p>I ſhall not meddle with what hath paſſed between the States here and our former Ambaſſadors, but ſpeak only to the preſent mttter of the laſt Treaty.</p>
+            <p>The Councell of the late Parliament inſiſted on<g ref="char:EOLhyphen"/>ly upon two things. 1 Satisfaction. 2 Security. The which by them was thought to be moſt proper, neceſſary, and convenient as a manuduction to a Treaty for Amitie between the two Republicks. The ſame particulars afterward did the preſent Councell deſire to proceed upon: but this our Meſ<g ref="char:EOLhyphen"/>ſengers refuſed, &amp; were unwilling to do, propoun<g ref="char:EOLhyphen"/>ding to have them come after the 36. Articles for Amitie, and ſo to be taken in and debated. The Lords of the Councell here manifeſted their un<g ref="char:EOLhyphen"/>willingneſſe, to wave either the one or the other, as having in their underſtanding good reaſon &amp; cauſe for it.</p>
+            <p>Firſt, they were not willing to decline their Claim in point of ſatisfaction: alledging.</p>
+            <p n="1">1 That it ſtood with the rules of Juſtice and E<g ref="char:EOLhyphen"/>quity
+<pb n="5" facs="tcp:116059:3"/>contained in the Morall Law of God and na<g ref="char:EOLhyphen"/>ture, and ſound naturall Reaſon, That wrongs ought to be repaired.</p>
+            <p n="2">2 That the charge of the Wars ought to be born by the wrong doers: A thing undeniable, and no more then what is juſt, and all States will demand and expect in their own Cauſe.</p>
+            <p n="3">3 To decline the claime of ſatisfaction, it was (they ſaid) to wave the right of their Cauſe, and in a ſort to make themſelves tranſgreſſors, which they could not do.</p>
+            <p>Again, for the other particular, namely mattter of ſecurity: Here likewiſe the Councell gave their Reaſons wherefore they deſired it.</p>
+            <p n="1">1 Becauſe it would be no way for their ſafety &amp; good to end the preſent difference by a Peace, if no<g ref="char:EOLhyphen"/>thing were done to ſecure it.</p>
+            <p n="2">2 Becauſe we brake firſt with them, or rather fell upon them, whilſt the Amitie between us and them continued, yea whilſt our Embaſſadors were treat<g ref="char:EOLhyphen"/>ing with them, of a ſtrict League and Union, and had no thought of engaging us.</p>
+            <p>Another Reaſon why they deſired Security, was, becauſe formerly wee had made it our Intereſt to differ with them, and ſeverall times took advantage thereby, both at home and in forreign parts to their loſſe and prejudice many ways very much.</p>
+            <p>Theſe and ſuch like were the Reaſons which the Lords of the Councell gave our Meſſengers, why they were not willing (neither could according to the truſt of the Common-wealth committed to them) wave their Claim either to the matter of ſatisfaction or ſecurity.</p>
+            <pb n="6" facs="tcp:116059:4"/>
+            <p>Our Agents perceiving that the States of <hi>England</hi> ſtood ſo faſt and fixt, and would not decline the par<g ref="char:EOLhyphen"/>ticulars, deſired then to know what ſecurity they would have of them, as in what way, and how to be given. To this their Anſwer was, that they knew not for their part any better way or courſe in order to a laſting and profitable Peace, for the good and ſafety of both Nations, then by a Coalition, that is, the two States to become one entire Republick. And if this would be accepted by the Netherland<g ref="char:EOLhyphen"/>ers, we ſhould ſoon ſee how reall and ſincere they were for Peace and Amitie, and how much they in<g ref="char:EOLhyphen"/>tended and ſought the wel-fare and proſperity of our Nation, as no leſſe every way then their own.</p>
+            <p>Moreover, that it ſhould appeare, if this proffer would be accepted, they minded our happineſs and good indeed, in not ſtanding upon the quantum of ſatisfaction, but would uſe ſo much reaſon and mo<g ref="char:EOLhyphen"/>deration, as our ſelves ſhould be willing to it, and be no way looſers, but gainers rather by it.</p>
+            <p>And that we might not ſtartle, or take offence in their propounding this way for Peace, by a Coaliti<g ref="char:EOLhyphen"/>on, or making the two Republicks one ſole and en<g ref="char:EOLhyphen"/>tire Common-wealth, they made it to appeare moſt plainly to our Meſſengers, that the gain and advan<g ref="char:EOLhyphen"/>tage following this Conjunction, would not be theirs, but ours abundantly, and that in many re<g ref="char:EOLhyphen"/>ſpects and Conſiderations.</p>
+            <p>And to ſay the truth, it cannot be otherwiſe, and therefore I moſt earneſtly wiſh and deſire, that my Countrymen every where were rightly and well in<g ref="char:EOLhyphen"/>formed concerning this particular, to wit, what cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> profit our Nation may expect, by a willing and
+<pb n="7" facs="tcp:116059:4"/>thank full embracing of this large and loving tender of the Engliſh, and not ſuffer our ſelves to be any longer deluded, and become a prey to ſuch men, who ſeek not the ſafety and publique good of our Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntrie, but to carrie on their own deſign, not re<g ref="char:EOLhyphen"/>garding what becomes of the Nation, if it periſh, it periſh.</p>
+            <p>And to the end we may not repent when it is too late, but <hi>know the things which belong unto our peace in this our day:</hi> there are five things which I deſire by you, may be communicated to all my Countrey<g ref="char:EOLhyphen"/>men every where. Firſt, how much it will be for our good, if <hi>England</hi> and the Netherlands be united and made one Common-wealth, this appears</p>
+            <p n="1">1 It is well known what a numerous people we are, and how ſtreightned and lockt up (as it were) by reaſon of that ſmall portion of land wee have. VVhereas being one with <hi>England,</hi> and free Deni<g ref="char:EOLhyphen"/>ſons, our Territories will be larger, and we in a ca<g ref="char:EOLhyphen"/>pacity to plant our ſelves either in <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> or <hi>Ireland,</hi> where we ſhall live fart better, and more comfortably then now we do, there being land enough for us, and places moſt proper and fit for our condition, as to improve to our great ad<g ref="char:EOLhyphen"/>vantage, all which we know to be true by experience already.</p>
+            <p n="2">2 VVe are not ignorant of the uſefulneſs &amp; com<g ref="char:EOLhyphen"/>modiouſneſſe of their ports and Havens; all which being ours as theirs, what infinite gaine and profit vve ſhall have by them in our trade continually, is not unknovvn to our Nation.</p>
+            <p n="3">3 For the great trade of fiſhing upon the Coaſt of Great Brittain, and vvhat vvealth and profit is
+<pb n="8" facs="tcp:116059:5"/>gotten thereby, no nation knows better than ours, nor have had more profit thereby then wee. In<g ref="char:EOLhyphen"/>deed this very thing duly weighed, is enough to move us all to accept their proffer, and doth plain<g ref="char:EOLhyphen"/>ly demonſtrate, that ſuch as endeavour to obſtruct the ſame are Enemies and Traytors to the welbeing of our Nation.</p>
+            <p n="4">4. VVhereas there belongs to the Common-wealth of <hi>England</hi> many forreign Iſlands and Plan<g ref="char:EOLhyphen"/>tions which doe afford ſeverall rich Commodities, for us to Trade freely to them, and no otherwiſe then the <hi>Engliſh</hi> do, our gaine vvill be great vvhich vve ſhall have continually thereby.</p>
+            <p n="5">5. By this Coalition wee ſhall be the better ſtrengthened againſt all Enemies, whether neerer or farther off: Manage our Trade abroad the bet<g ref="char:EOLhyphen"/>ter, and live at home (where ever our dwellings are) the ſafer, and without diſturbance or mole<g ref="char:EOLhyphen"/>ſtation.</p>
+            <p n="6">6. Our Countrey will be much enriched by the Commodities which <hi>England</hi> affords, beſides what we bring from other Nations, by carrying the ſame into <hi>England, Scotland, Ireland,</hi> &amp;c. will be no ſmall gain both to our Merchants and Mariners in point of Trade.</p>
+            <p>Secondly, if we conſider of the preſent con<g ref="char:EOLhyphen"/>dition of the Common-wealth of <hi>England,</hi> there is no cauſe (no neceſſity at leaſt) on their part to unite with us: for though there be a neceſſity (as we ſhewed before) for us to be one with them, yet they without us can do well enough, and they need us not; this we prove,</p>
+            <p n="1">1. Becauſe their Territories are ſo large and a<g ref="char:EOLhyphen"/>bounding
+<pb n="9" facs="tcp:116059:5"/>vvith all neceſſaries as to food and ray<g ref="char:EOLhyphen"/>ment, for the preſervation of mankind, &amp; they can live proſperouſly and happily vvithout the ſupplies and Commodities of other Countries, (ſpecially ours) the vvhich vve cannot do.</p>
+            <p n="2">2. Such hath been the Lords povverſul preſence with them, both by Land and Sea, ſo clearly hath he owned hitherto, and born witneſſe to the juſtnes of their Cauſe in many unparalleld and glorious Characters. as all Nations round about them, ta<g ref="char:EOLhyphen"/>king notice thereof, would willingly have Peace and Amity with them: Yea no doubt, even <hi>Spain, France, Denmark,</hi> &amp;c. would gladly enter by copu<g ref="char:EOLhyphen"/>lation and Treaty, into strict League, both offenſive and defenſive, though it were to leave us to ſhift for our ſelves.</p>
+            <p n="3">3. Such is their preſent ſtrength and power both at Land and Sea, and the vaſt Treaſure and VVealth of the Nation, both to maintaine and enlarge the ſame, as they ſee occaſion, that they need no additi<g ref="char:EOLhyphen"/>on from us, either of men, money, ſhipping, am<g ref="char:EOLhyphen"/>munition, <hi>&amp;c.</hi> but are herein ſufficiently ſtored and furniſhed themſelves, to carrie on the work which they have in hand both at home and abroad.</p>
+            <p n="4">4. Howſoever our people for many reaſons have encouragement to plant themſelves in the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England,</hi> yet there is no ſuch encou<g ref="char:EOLhyphen"/>ragement for them (ſpecially the Husband-man) to live amongſt us, we having no land to ſpare wherby to better their outward condition.</p>
+            <p n="5">5. Seeing the Lord hath made them every where ſucceſsfull in their VVarrs, and given them peace round about, made their Dominion and Territo<g ref="char:EOLhyphen"/>ries
+<pb n="10" facs="tcp:116059:6"/>ſo large, it would be much more for their eaſe, contentment, quietneſs, to ſit ſtill and peaceably poſſeſſe what they have, then by joyning with us, to contract more labours and care, there being no<g ref="char:EOLhyphen"/>thing elſe which they can expect, in reference unto us, but troubles and but thens by the Coalition.</p>
+            <p>Thirdly, as the gaine of this Union will be ours, and theirs: ſo not being accepted on our part, our ſufferings thereby will be many and great.</p>
+            <p>For 1. Our trade every day by continuance of VVarre will be weakned and leſſened, whereby our Merchants will be broken Labourers, and Tradeſ<g ref="char:EOLhyphen"/>men impoveriſhed, houſes worth little or nothing, and ſo a common calamity ſuddenly ſpread the whole land over.</p>
+            <p n="2">2. Diviſions, Factions, and inteſtine Tumults (already broiling amongſt us) will be heightned and increaſed every day: ſo that in a little while there will be no need of a forreign Enemie to invade us; for through the Commotions ariſing &amp; grow<g ref="char:EOLhyphen"/>ing among our ſelves, we ſhall ſhortly devour and deſtroy each other.</p>
+            <p n="3">3. Neither can we imagine, but beſides the fear<g ref="char:EOLhyphen"/>ſull ſword of VVarr within and without, a ſore de<g ref="char:EOLhyphen"/>ſtroying famine will be in all our Cities; for if tnis breach between us and <hi>England</hi> be not healed, our proviſions will be ſtopt, and the Nation expos'd to ſuch want and penurie, as we muſt be conſtrained to ſell our ſelves for bread.</p>
+            <p n="4">4. VVhereas our Countrey flouriſhed by reaſon of many Forreigners living amongſt us, as <hi>Engliſh, French, Germans, Danes,</hi> &amp;c. by which means great profit and trade was brought to us. All thoſe (if
+<pb n="11" facs="tcp:116059:6"/>poſſible) will ſpeedily return to their own Coun<g ref="char:EOLhyphen"/>treys, a prejudice and loſſe to our Nation beyond meaſure, as wee ſee already in part by ſadd experi<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="5">5. It is well known with what difficulty and hard<g ref="char:EOLhyphen"/>ſhips our former Navie was raiſed; what a ſtir there was to get men, money, ſhips, proviſions; how diſcontented the people were to have ſuch taxes and heavy but thens laid upon them, now who ſees not, but it will be more difficult hereafter, even im<g ref="char:EOLhyphen"/>poſſible, the people not being able to do as former<g ref="char:EOLhyphen"/>ly they did: For Trading ceaſing, and Famine like an armed man coming upon us, what can be done, but mourn to behold ſuch deſolation.</p>
+            <p n="6">6. For <hi>Spain</hi> or <hi>France,</hi> what may wee expect from them, but if brought low by the <hi>Engliſh,</hi> they will endeavour to enlarge their Territories upon us, and lay our necks under the yoke of their tyran<g ref="char:EOLhyphen"/>ny. VVhereas by joyning with <hi>England,</hi> we ſhall re<g ref="char:EOLhyphen"/>tain our freedom, and need not fear any ſuch op<g ref="char:EOLhyphen"/>preſſion: Beſides for the <hi>Dane,</hi> if he would, he can<g ref="char:EOLhyphen"/>not ſtead us, being no otherwiſe than an <hi>Aegyptian</hi> Reed, not to be truſted to, nor leaned on.</p>
+            <p n="7">7. Not onely is our Navy weakned by a great number of ſhips, ſome ſunk, others taken, but our chiefeſt and choifeſt Mariners either ſlain or priſo<g ref="char:EOLhyphen"/>ners: Beſides, ſuch a feare and dread of the <hi>Engliſh</hi> is fallen upon our Nation, Souldiers, Saylers and all, as there is not among an hundred, one (almoſt) willing to engage again. And whereas there is ſo much complaint made againſt ſome of our Capt. for cowardlineſs; this I take to be, not ſo much a naturall feare or daſtardneſs in them, as the juſt
+<pb n="12" facs="tcp:116059:7"/>hand of God upon us and our Fleet, ſpeaking to us as it were from heaven, that vve ſhould not fight againſt <hi>England,</hi> and that good Cauſe for vvhich they have engaged, but accept of Peace in the terms propounded to us.</p>
+            <p>I come now to the fourth head or conſideration: As by this <hi>Coalition,</hi> the gain would be onely ours, and much danger prevented: So it is worth the ob<g ref="char:EOLhyphen"/>ſerving, that this will bring loſſe and damage to no man, but every one will be the better; none (I ſay) ſuffer or be the worſe by it. It is true, the vain title of <hi>High and Mighty States</hi> may be laid aſide, as not fit indeed, not proper for poor Creatures, duſt and aſhes to aſſume; but Attributes rather to be given to the <hi>High and Mighty God.</hi> Beſides, it is proba<g ref="char:EOLhyphen"/>ble that the common people would more ſweetly enjoy their liberty and freedom, and not be kept under by ſo Lordly and Arbitrary power as now they are.</p>
+            <p>For the great buſineſſe of the <hi>Engliſh</hi> Councell is to remove all ſuch things as are oppteſſive and de<g ref="char:EOLhyphen"/>ſtructive to the lives, liberties, perſons and eſtates of the Nation, and to eſtabliſh ſuch who ſom and good Lawes as may conduce to a full and perfect freedom.</p>
+            <p>Hence it is that the people here are much encou<g ref="char:EOLhyphen"/>raged to bring in their juſt Complaints concerning any Grievance or Oppreſſion which lies upon them, and great care is taken for a ſpeedy and effectuall re<g ref="char:EOLhyphen"/>movall thereof. VVhereas amongſt us, no door is left open to have bad Laws and worſe Cuſtoms abo<g ref="char:EOLhyphen"/>liſhed, but what formerly hath been oſtabliſhed, right or wrong, that is ſtill held up, and no care ta<g ref="char:EOLhyphen"/>ken
+<pb n="13" facs="tcp:116059:7"/>for the ſatisfaction and eaſe of the people there<g ref="char:EOLhyphen"/>in.</p>
+            <p>In this regard therefore it is greatly to be deſired that the Lord would open the eyes of our Countrey<g ref="char:EOLhyphen"/>men to ſee how extreamly they are abuſed by ſome in power among them, who for no other cauſe or end endeavour to continue the VVarr, and embrue our Nation in blood, out only to keep up themſelves in ſtate, pomp, pride, and to Lord it over their bre<g ref="char:EOLhyphen"/>thren: This I ſay again, and it is as cleer as the Sun at noon-day, that there is not any other imaginable Reaſon, why our Generall and Provinciall States accept not of Peace offered to them by the Councel of <hi>England,</hi> but becauſe they alone will domineer and will uot let fall that ſole Rule and Domination which they have formerly exerciſed over the peo<g ref="char:EOLhyphen"/>ple: As for any other inconvenience or loſſe I am ſure there is none: no loſſe or inconvenience to the people at all, but good many wayes.</p>
+            <p>And here I heartily deſire my Countrey-men to conſider what ſollie and madneſſe it is for them to aſſiſt their Superiours in this VVarr againſt <hi>England.</hi> VVhat, my deare Friends and Brethren, will ye ſhed your blood? ſpend your treaſures? utterly undo your ſelves? your VVives? Children? Poſterity? only to ſatisfie the luſts of ſome ſew ambitious per<g ref="char:EOLhyphen"/>ſons? Is it not better, that the title of <hi>High and Mighty States</hi> doth fall, and theſe with it, that eſ<g ref="char:EOLhyphen"/>fect it, then the whole <hi>Nation</hi> ſhould be undone, by eſpouſing ſo diſhonourable, unjuſt, and badd a Cauſe?</p>
+            <p>The fifth and laſt <hi>Conſideration</hi> which I ſhall com<g ref="char:EOLhyphen"/>mend to you, and by you to the <hi>Nation,</hi> it is</p>
+            <pb n="14" facs="tcp:116059:8"/>
+            <p>
+               <hi>Firſt, That you would obſerve who the perſons be which are Obstructers and Enemies to this good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ender of the Engliſh.</hi>
+            </p>
+            <p n="2">2. <hi>The deceitfull wayes and devices which they uſe to contirue the bleody Warre between the two Nations.</hi>
+            </p>
+            <p n="3">3. <hi>What their drift, end, and deſigne is in all.</hi>
+            </p>
+            <p>For the perſons, no doubt they are ſuch as are not wel-affected to either Nation, but deſire the hurt of both: Hence it is, that <hi>Rome</hi> hath her <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> amongſt you, <hi>Spain</hi> and <hi>France</hi> their <hi>Bouteſues</hi> or Fling-fires, the Prince of <hi>Orange</hi> his <hi>Foction,</hi> and the titular King of <hi>Scotland</hi> his <hi>Incendiaries;</hi> all which like <hi>Sampſons</hi> Foxes, with ſire-brands at their tayls, endeavouring to burn our Countrey, deſiring rather to ſee our Towns and Cities laid waſte, than <hi>England</hi> and the <hi>Netherlands</hi> happily united into one flouriſhing <hi>Common-wealth.</hi>
+            </p>
+            <p>Neither are our Magiſtrates there without guilt and ſinne in this particular; but ſome of them pro<g ref="char:EOLhyphen"/>ſtrate the blood and treature of our <hi>Nation</hi> to ſatiſ<g ref="char:EOLhyphen"/>fie the luſts of other States.</p>
+            <p>Some again, either through a baſe feare leſt they ſhould be diſplaced, or an ambitious deſite to keep up their <hi>Hogen. Mogen</hi> Title, joyne with the reſt in their evill doings.</p>
+            <p>Thus through the covetouſneſſe of the one, and pride of the other, the poor people are like ſheep led to the ſlaughter.</p>
+            <p n="2">2. For the deceitfull and ſinfull wayes uſed by theſe Incendiaries, whereby to carry on their evill deſign, I am aſham'd and bluſh to think of them: It is ſuch a diſhonour and ſcandall to our Nation:</p>
+            <pb n="15" facs="tcp:116059:8"/>
+            <p n="1">1. By falſhood, making lies their reſuge. Hence it is, that in your Letters and printed Newes which wee have from thence, we finde continually ſuch abhominable untruths, as if wee were a Nation which knew not God, nor ever heard of his righ<g ref="char:EOLhyphen"/>teous Judgments thratned againſt Liers.</p>
+            <p>Is there no way to hearten and keep up the ſpirits of our people, but by falſe relations, as to boaſt of Victories when we are bearen? to report the Ene<g ref="char:EOLhyphen"/>mies loſſes to be ſuch, when it is neither ſo nor ſo? VVhat is this for? but a deſign of ſome men, to de<g ref="char:EOLhyphen"/>ceive and blind the people, that they may not heark<g ref="char:EOLhyphen"/>en to Peace, but runne on into unavoydable miſ<g ref="char:EOLhyphen"/>chief and miſery.</p>
+            <p n="2">2. By Paſquils and Libels, and ſetting forth baſe pictures and ſcurrilous forgs, whereby ſome ſeeke to render this State contemptible to the world, and to exaſperate the Common people there againſt this Nation, a practice moſt unſeemly in any civill people, and no where elſe I believe practiced in any Chriſtian Common wealth.</p>
+            <p n="3">3. By miſ reporting the loving tenders and proffers of this State for Peace, as publiſhing what was never ſaid, and concealing in the mean time the truth of things.</p>
+            <p>Hence it is, that our people there are made to believe, that the Councell of <hi>England</hi> hath no in<g ref="char:EOLhyphen"/>clination to Peace; that their Demands are unrea<g ref="char:EOLhyphen"/>ſonable, and impoſſibilities. VVhereas No Nati<g ref="char:EOLhyphen"/>on under heaven doth more deſirouſly deſire Amity then the Engliſh with us, and what they doe pro<g ref="char:EOLhyphen"/>pound is the onely courſe (in the judgment of all judicious and unbyaſſed men) for the ſecurity of
+<pb n="16" facs="tcp:116059:9"/>both, away to remove all emulation, and to make our Nation really happy.</p>
+            <p>So that I am very conſident, if my Countrey<g ref="char:EOLhyphen"/>men did truly underſtand how things have paſſed here, what deſire this Nation hath to Peace, and how good for us all the thing is which is propound<g ref="char:EOLhyphen"/>ed, they would not any longer follow their Superi<g ref="char:EOLhyphen"/>ours to Warre, but riſe up as one man, and imme<g ref="char:EOLhyphen"/>diately become one Common wealth with <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Laſtly, As the Incendiaries in your Councell there are diverſe, ſo they have ſeveral deſigns. Some act to rayſe up the Houſe of <hi>Orange,</hi> and under pretence of his greatneſſe and Authority, make ac<g ref="char:EOLhyphen"/>count to reap no ſmall advantage. Others more in reference to <hi>Charls Stuart,</hi> as thinking to riſe by rayſing him. Others are ſecretly in pay, and pro<g ref="char:EOLhyphen"/>miſe with <hi>France,</hi> and others with <hi>Spain,</hi> every one driving forward his own Intereſt, as hoping by the continuance of this VVarr, to profit their Maſters and themſelves too.</p>
+            <p>Thus is our poor Countrey rent and torn by the treacherous and crafty deſigns of theſe ſeverall Fa<g ref="char:EOLhyphen"/>ctions, every one ſeeking himſelfe and his owne Intereſt, not regarding in the meane time what ru<g ref="char:EOLhyphen"/>ine and deſolation befals the Nation.</p>
+            <p>Is it not therefore high time, that my Country<g ref="char:EOLhyphen"/>men would awake, and lie no longer aſleep and ſe<g ref="char:EOLhyphen"/>cure, through the deceit and hypocriſie of ſuch crafty men, who like Vipers ſeeke to eate out the Bowels of their owne Mother, and that they take care for their own peace and ſafety, which is imme<g ref="char:EOLhyphen"/>diately to make peace with <hi>England</hi> upon the terms propounded.</p>
+            <pb n="17" facs="tcp:116059:9"/>
+            <p>Moreover, that it may appare how heartily and really the Engliſh Nation hath deſired peace with us, and that there might be no more effuſion of blood between the two Nations.</p>
+            <p>The Councell deſired our laſt Meſſengers, if they liked not this way of Security by Coalition, they ſhould then propound any better way unto them, which they never did, but lay ſtill fiſhing at this ſtate, as to get out what they could; ſo that it is moſt evident and clear, that what they did, was only to make ſome advantage upon what might be offer<g ref="char:EOLhyphen"/>ed, but had no mind, neither they nor their Supe<g ref="char:EOLhyphen"/>riours, who ſent them, to have a good and laſting peace with the Common-wealth of <hi>England,</hi> unleſs it be ſuch a one as cannot be condiſcended to, nei<g ref="char:EOLhyphen"/>ther with the glory of God, nor honour, nor ſafety to the people of this Nation, no nor really to the happineſſe and proſperity of our owne Countrey.</p>
+            <p>Thus I have, as with much brevity, ſo in ſinceri<g ref="char:EOLhyphen"/>ty and ſingleneſſe of heart, laid before you the true ſtate of things: And I doe once more earneſtly en<g ref="char:EOLhyphen"/>treat, that from your hands, This Peace-maker may, as from my hand be ſpread all our Countrey over, to the end that my dear Friends and Brethren may ſee how the VVarr is neither deſired nor con<g ref="char:EOLhyphen"/>tinued by the Engliſh: But ſo much is granted and offered to us, as were our Countrey as flouriſhing as ever, and had <hi>England</hi> no advantage at this time over, yet would it have been a ſingular mercy and bleſhng to us to enjoy what is now offered, it tend<g ref="char:EOLhyphen"/>ing wholly and altogether to our good as I have proved before.</p>
+            <p>Neither is the thing either dangerous or difficult
+<pb n="18" facs="tcp:116059:10"/>to the effectuall accompliſhment thereof: For you there do but once ſtand up for your freedom and li<g ref="char:EOLhyphen"/>berty, and openly declare that you will accept of Peace, be united to <hi>England,</hi> and make one Com<g ref="char:EOLhyphen"/>mon-wealth; the Fire-brands and Incendiaries in your Councels or elſewhere, will have no heart to oppoſe; Beſides, the thing is ſo juſt and neceſſary, as you may expect protection and aſſiſtance from the Lord.</p>
+            <p>Now this I preſſe the more earneſtly upon you, as not to further or promote the VVars againſt <hi>Eng<g ref="char:EOLhyphen"/>land</hi> any longer either in your perſons or Eſtates, ſeeing it is but to fight your ſelves into ſlavery and bondage, and to ſatisfie their ends and turn, who ſeek not your good and proſperity, but their owne, and that to your ruine and downfall.</p>
+            <p>
+               <hi>Now conſider what I ſay, and the Lord give you underſtanding in all things.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116059:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
